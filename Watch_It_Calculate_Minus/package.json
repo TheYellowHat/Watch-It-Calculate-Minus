@@ -1,0 +1,42 @@
+{
+    "author": "samusaron@hotmail.com",
+    "dependencies": {},
+    "keywords": [],
+    "name": "watch_math_minus",
+    "pebble": {
+        "capabilities": [
+            ""
+        ],
+        "displayName": "Watch_Math_Minus",
+        "enableMultiJS": true,
+        "messageKeys": [],
+        "projectType": "native",
+        "resources": {
+            "media": [
+                {
+                    "file": "fonts/digital-7.ttf",
+                    "name": "FONT_DIGITAL_20",
+                    "targetPlatforms": null,
+                    "type": "font"
+                },
+                {
+                    "file": "fonts/digital-7.ttf",
+                    "name": "FONT_DIGITAL_48",
+                    "targetPlatforms": null,
+                    "type": "font"
+                }
+            ]
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "aplite",
+            "basalt",
+            "chalk"
+        ],
+        "uuid": "4fdfedac-4472-4e36-9937-7128e3f3d31e",
+        "watchapp": {
+            "watchface": true
+        }
+    },
+    "version": "1.0.0"
+}
